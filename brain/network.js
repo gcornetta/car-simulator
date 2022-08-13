@@ -4,7 +4,7 @@
 class NeuralNetwork{
     /**
      * Create a neural network
-     * @param {Array} neuronCounts - array of neuron counts (input and output) 
+     * @param {Array} neuronCounts - array of neuron counts (input, hidden, and output) 
      */
     constructor(neuronCounts){
         this.levels=[]
