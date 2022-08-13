@@ -6,7 +6,7 @@ The fundamentals of neural network operation, a description of the software arch
 
 ## Usage
 To run the application follow the steps depicted in the sequel:
-1. clone this repo typing `git clone https://github.com/gcornetta/RPLidar.git`.
+1. clone this repo typing `git clone https://github.com/gcornetta/car-simulator.git`.
 2. in the project folder run `npm install` to install the project dependencies.
 3. to run the application type `npm start`.
 
