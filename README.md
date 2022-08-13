@@ -6,9 +6,9 @@ The fundamentals of neural network operation, a description of the software arch
 
 ## Usage
 To run the application follow the steps depicted in the sequel:
-1. clone this repo:
-2. go to the project folder and install dependencies:
-3. to tun the application type `npm start`.
+1. clone this repo typing `git clone https://github.com/gcornetta/RPLidar.git`.
+2. in the project folder run `npm install` to install the project dependencies.
+3. to run the application type `npm start`.
 
 To pack the application and generate an executable for your platform, follow the steps in the sequel:
 1. xxx
