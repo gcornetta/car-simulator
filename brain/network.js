@@ -30,7 +30,12 @@ class NeuralNetwork{
         }
         return outputs
     }
-
+    
+    /**
+     * Implements network mutation
+     * @param { Object } network - the neural network object
+     * @param { number } amount - amount of mutation in the new network 
+     */
     static mutate(network,amount=1){
         network.levels.forEach(level => {
             for(let i=0;i<level.biases.length;i++){
