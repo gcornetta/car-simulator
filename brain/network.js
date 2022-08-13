@@ -93,7 +93,7 @@ class Level{
 
     /**
      * Builds a feedforward neural network
-     * @param {*} givenInputs - The inputs of the network 
+     * @param {Array} givenInputs - The inputs of the network 
      * @param {Object} level - The level of the neural network 
      * @returns {Array} - an array with the outputs of the activation functions 
      */
