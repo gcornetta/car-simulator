@@ -14,8 +14,9 @@ To pack the application and generate an executable for your platform, follow the
 1. xxx
 
 ## Software requirements
-This software has been tested with `Electron v.`.
+This software has been tested with `Electron v.18.2.3`and `Node.js v.16.6.0`.
 
 ## Disclaimer
+This software has been tested on a Mac with `MacOS 12.5` (Monterey). I would recommend using either a Mac or a PC with a Linux distribution.
 
 
