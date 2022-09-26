@@ -10,10 +10,10 @@ To run the application follow the steps depicted in the sequel:
 2. in the project folder run `npm install` to install the project dependencies.
 3. to run the application type `npm start`.
 
-The easiest way to pack the Electron application and generate an executable for your platform is using `electron-forge`. All the scripts and configurations are automativally generated when the Electron application is created. To create and scaffold an Electron application you could use `npx` (that is bundled with the node package manager `npm`):
+The easiest way to pack the Electron application and generate an executable for your platform is using `electron-forge`. All the scripts and configurations are automatically generated when the Electron application is created. To create and scaffold an Electron application you could use `npx` (that is bundled with the node package manager `npm`):
 
 ```
-npm create-electron-app <app-name> --template=<template-name>
+npx create-electron-app <app-name> --template=<template-name>
 ```
 
 The electron application can be started from the application folder typing `npm start`. The electron application can be packaged typing `npm run make`.
