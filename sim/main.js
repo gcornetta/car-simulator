@@ -117,4 +117,4 @@ function animate(time) {
     } else {
         window.electronAPI.send(bestCar.brain)
     }
-}
+} 
